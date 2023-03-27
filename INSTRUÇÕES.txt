@@ -1,0 +1,10 @@
+Intruções para a utilização do código:
+
+1. Verifique as configurações de seu gmail
+Manage your Google Account -> Security -> Ative a verificação de duas etapas (2-Step Verification)
+
+2. Ainda em "Security" gere uma senha para o app 
+"App password"-> digite sua senha padrão do gmail -> o Google irá gerar uma senha automática, copie.
+
+3. Acesse o código e personalize:
+Desça o código e digite o remetente, destinatário e a senha automática gerada pelo google.
